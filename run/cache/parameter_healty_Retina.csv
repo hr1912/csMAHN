@@ -1,4 +1,0 @@
-tissue,sp_ref,path_ref,name_ref,sp_simple_ref,sp_que,path_que,name_que,sp_simple_que,key_cell_type
-retina,zebrafish,healty/Retina/zebrafish_Adult,zebrafish_Adult,z,mouse,healty/Retina/Macosko,Macosko,m,cell_type
-retina,zebrafish,healty/Retina/zebrafish_Adult,zebrafish_Adult,z,human,healty/Retina/Menon_seqwell,Menon_seqwell,h,cell_type
-retina,zebrafish,healty/Retina/zebrafish_Adult,zebrafish_Adult,z,chicken,healty/Retina/chicken_P10,chicken_P10,c,cell_type

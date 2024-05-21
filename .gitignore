@@ -3,3 +3,4 @@ _update
 .virtual_documents/
 __pycache__/
 _upload.ipynb
+*h5ad

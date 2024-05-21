@@ -1,0 +1,7 @@
+path_list,path,name,version,label
+m2.cp.v2023.2.Mm.symbols.gmt,df_genesets_m2.cp.v2023.2.Mm.symbols.csv,m2.cp.v2023.2.Mm.symbols.gmt,v2023.2,m2.cp
+c2.cp.v2023.2.Hs.symbols.gmt,df_genesets_c2.cp.v2023.2.Hs.symbols.csv,c2.cp.v2023.2.Hs.symbols.gmt,v2023.2,c2.cp
+c5.go.bp.v2023.2.Hs.symbols.gmt,df_genesets_c5.go.bp.v2023.2.Hs.symbols.csv,c5.go.bp.v2023.2.Hs.symbols.gmt,v2023.2,c5.go.bp
+m5.all.v2023.2.Mm.symbols.gmt,df_genesets_m5.all.v2023.2.Mm.symbols.csv,m5.all.v2023.2.Mm.symbols.gmt,v2023.2,m5.all
+m5.go.bp.v2023.2.Mm.symbols.gmt,df_genesets_m5.go.bp.v2023.2.Mm.symbols.csv,m5.go.bp.v2023.2.Mm.symbols.gmt,v2023.2,m5.go.bp
+c5.all.v2023.2.Hs.symbols.gmt,df_genesets_c5.all.v2023.2.Hs.symbols.csv,c5.all.v2023.2.Hs.symbols.gmt,v2023.2,c5.all

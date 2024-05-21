@@ -5,12 +5,15 @@ dgl
 scanpy=1.9.3
 openpyxl
 leidenalg
+hnswlib
 python-igraph
-bokeh
-r-base
+pypdf2
+reportlab
+r-base=4.3.3
 r-tidyverse
 r-seurat=5.0.0
 r-harmony
+r-hdf5r
 r-caret
 r-devtools
 r-repr
